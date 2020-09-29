@@ -7,11 +7,12 @@
 |1|2|3|4|_|5|6|7|
 
 ## Score
-![gallow](./images/2.png)
+![gallow](./images/3.png)
 
 ## Beurten
 =======
 ### M: E
 ### Y: Nee, niet in het word.
 ### M: A
+### Y: Nee, niet in het word.
 
