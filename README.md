@@ -10,9 +10,7 @@
 ![gallow](./images/2.png)
 
 ## Beurten
-<<<<<<< HEAD
-M: E
-Y: Nee, niet in het word.
 =======
 M: E
->>>>>>> acf45b7c962a3645814c6d4e3efb85407e421627
+Y: Nee, niet in het word.
+
