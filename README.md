@@ -8,7 +8,7 @@
 |1|2|3|4|_|5|6|7|
 
 ## Score
-![gallow](./images/6.png)
+![gallow](./images/7.png)
 
 ## Beurten
 =======
@@ -25,3 +25,8 @@
 ### M: T
 ### Y: Nee, niet in het word.
 ### M: M
+### Y: Nee, niet in het word.
+
+# GAME OVER
+
+## The word was: Xbox 360
