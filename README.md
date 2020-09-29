@@ -1,4 +1,5 @@
 # Galgje
+## Yair, Mikey
 
 ## Te raden woord
 
@@ -21,3 +22,4 @@
 ### Y: Nee, niet in het word.
 ### M: O
 ### Y: Ja, het is in het word.
+### M: T
